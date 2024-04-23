@@ -19,3 +19,4 @@ class FlaskrTestCase(unittest.TestCase):
             b'{ "imie":"Aliaksandr", "mgs":Hello World!"}',
             rv.data
         )
+        
